@@ -7,7 +7,15 @@
 ![image](https://github.com/namishagurunani/WeeklyAssignment3/assets/126158413/f9562dc7-ad0e-4517-b236-24475627327b)
 
 # Explanation:
-
+- 'div' is a container tag used for containing other tag inside it.
+- 'h1','h2','h3'are used to create the heading
+- 'ul'is used to create the unordered list.
+- 'nav' tag is used to create the navbar
+- 'img'tag is used to insert the image
+- 'button'tag is used to create the button
+- 'p' tag is used to create the paragraph.
+- 'section' tag is used to create the different section of the webpage
+- 'span' tag is used to insert the google icons. css properties like background image ,color, 
 # Sumbission Required:
 - Hosted Link:[click here](https://namishagurunani.github.io/WeeklyAssignment3/)
 - Github Link:[click here](https://github.com/namishagurunani/WeeklyAssignment3)
