@@ -15,7 +15,9 @@
 - 'button'tag is used to create the button
 - 'p' tag is used to create the paragraph.
 - 'section' tag is used to create the different section of the webpage
-- 'span' tag is used to insert the google icons. css properties like background image ,color, 
+- 'span' tag is used to insert the google icons.
+  # css properties like
+  - background image ,color, background-color,display-flex, and many more are used to create ui similar and attractive.
 # Sumbission Required:
 - Hosted Link:[click here](https://namishagurunani.github.io/WeeklyAssignment3/)
 - Github Link:[click here](https://github.com/namishagurunani/WeeklyAssignment3)
